@@ -27,7 +27,7 @@ import { IconButton } from '@mui/material';
 
 
 
-var SERVER_URL = "http://127.0.0.1:5000"
+var SERVER_URL = "https://project430l.herokuapp.com"
 
 const ExchangeRates = () => {
     let [buyUsdRate, setBuyUsdRate] = useState(null);//buy usd rate to be displayed

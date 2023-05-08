@@ -13,7 +13,7 @@ import Tooltip from '@mui/material/Tooltip';
 
 
 
-var SERVER_URL = "http://127.0.0.1:5000"
+var SERVER_URL = "https://project430l.herokuapp.com"
 
 
 const Statistics = () => {
